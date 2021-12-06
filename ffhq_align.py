@@ -107,6 +107,6 @@ if __name__ == '__main__':
 
         for i, face_landmarks in enumerate(landmarks_detector.get_landmarks(raw_img_path), start=1):
 
-            aligned_face_path = os.path.join(args.dst, f'align-{img_name}')
+            aligned_face_path = os.path.join(args.dst, img_name)
             result_img = image_align(raw_img_path, face_landmarks, args.output_size, args.transform_size, args.no_padding)
             result_img.save(aligned_face_path, 'PNG')
