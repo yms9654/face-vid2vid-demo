@@ -7,19 +7,19 @@ The notebooks are heavily based on [this code, created by zhanglonghao1992](http
 ## Demo App
 
 - You can run this demo app in the notebook ✨
-- 🎉 Add Colab ver ![![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/face-vid2vid-demo/blob/main/colab_demo.ipynb)
+- 🎉 Add Colab VER  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/face-vid2vid-demo/blob/main/colab_demo.ipynb)
 
+### Gradio App
 
-- **Gradio App**
 <p align="center">
     <img src='asset/images/gradio_demo.gif?raw=1' width = '900' >
 </p>
 
-- **Result**
-<p align="center">
-    <img src='asset/images/result-1.gif?raw=1' width = '700' >
-    <img src='asset/images/result-2.gif?raw=1' width = '700' >
-</p>
+### Result
+
+| ex 1 | ex 2 |
+|--|--|
+|<img src='asset/images/result-1.gif?raw=1' width = '700' >|<img src='asset/images/result-2.gif?raw=1' width = '700' >|
 
 ---
 
