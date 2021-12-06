@@ -1,8 +1,31 @@
-# One-Shot Free-View Neural Talking Head Synthesis
-Unofficial pytorch implementation of paper "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing".  
+# Face Vid2Vid Demo
 
-```Python 3.6``` and ```Pytorch 1.7``` are used. 
+This repo is an unofficial demo web app of the `face video2video`.
 
+The notebooks are heavily based on [this code, created by zhanglonghao1992](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis) (thank you!).
+
+## Demo App
+
+- You can run this demo app in the notebook ✨
+- 🎉 Add Colab ver ![![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/face-vid2vid-demo/blob/main/colab_demo.ipynb)
+
+
+- **Gradio App**
+<p align="center">
+    <img src='asset/images/gradio_demo.gif?raw=1' width = '900' >
+</p>
+
+- **Result**
+<p align="center">
+    <img src='asset/images/result-1.gif?raw=1' width = '700' >
+    <img src='asset/images/result-2.gif?raw=1' width = '700' >
+</p>
+
+---
+
+## One-Shot Free-View Neural Talking Head Synthesis Demo (Original Repo)
+
+- ```Python 3.6``` and ```Pytorch 1.7``` are used. 
 
 Updates:  
 -------- 
