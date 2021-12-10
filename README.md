@@ -21,6 +21,12 @@ The notebooks are heavily based on [this code, created by zhanglonghao1992](http
 |--|--|
 |<img src='asset/images/result-1.gif?raw=1' width = '700' >|<img src='asset/images/result-2.gif?raw=1' width = '700' >|
 
+**Control yaw, pitch, roll (`range(-30, 30)`)**
+
+<p align="center">
+    <img src='asset/images/rotation.gif?raw=1' width = '900' >
+</p>
+
 ---
 
 ## One-Shot Free-View Neural Talking Head Synthesis Demo (Original Repo)
