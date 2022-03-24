@@ -1,0 +1,9 @@
+pyyaml==5.4.1
+imageio
+opencv-python
+moviepy
+scikit-image~=0.17.0
+gradio
+fastapi
+Jinja2
+face-alignment
