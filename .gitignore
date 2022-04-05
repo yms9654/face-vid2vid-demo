@@ -4,3 +4,5 @@ asset/output
 ckpt
 flagged
 README.md
+raw_images/
+aligned_images/

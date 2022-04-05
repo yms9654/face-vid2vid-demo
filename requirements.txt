@@ -3,7 +3,7 @@ imageio
 opencv-python
 moviepy
 scikit-image~=0.17.0
-gradio
+gradio~=2.5.0
 fastapi
 Jinja2
 face-alignment
